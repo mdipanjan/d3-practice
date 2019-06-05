@@ -1,0 +1,22 @@
+[
+  {
+    "food":"Mughlai",
+    "orders":200
+  },
+  {
+    "food":"Bengali",
+    "orders":100
+  },
+  {
+    "food":"Chinese",
+    "orders":400
+  },
+  {
+    "food":"Thai",
+    "orders":600
+  },
+  {
+    "food":"Continental",
+    "orders":900
+  }
+]
